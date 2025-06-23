@@ -1,2 +1,2 @@
-<h1>GitHub blog <h1></h1> <br>
+GitHub blog <br>
 Hi, someone here? <br> I'm gonna practice markdown here
